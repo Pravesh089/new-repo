@@ -8,6 +8,8 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
+
+        // changes done by some other dev in master branch
     }
 
 }
